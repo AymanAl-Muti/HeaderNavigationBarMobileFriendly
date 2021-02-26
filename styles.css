@@ -1,0 +1,49 @@
+.container{
+    margin: 0;
+    padding:0% ;
+    min-width: 100%;
+}
+
+.navbar, navbar-expand-lg, navbar-light, bg-light{
+    padding:0.7% ;
+    height: 100%;
+}
+
+.test{
+    margin-left:15px;
+}
+
+.navbar-nav{
+    margin-left: 78%;
+    float: right;
+}
+
+@media (max-width: 1277px){
+    .navbar-nav{
+        margin-left: 74%;
+        float: right;
+    }
+}
+
+
+@media (max-width: 1261px){
+    .navbar-nav{
+        margin-left: 74%;
+        float: right;
+    }
+}
+
+@media (max-width: 1104px){
+    .navbar-nav{
+        margin-left: 73%;
+        float: right;
+    }
+}
+
+
+@media (max-width: 1090px){
+    .navbar-nav{
+        margin-left: 70%;
+        float: right;
+    }
+}
